@@ -1,7 +1,11 @@
 <!-- GitHub Stats -->
 <p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>
+  <!-- Activity graph -->
+  <!--img src="https://github-readme-activity-graph.cyclic.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>-->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>
+  <!-- Github Stats -->
   <img width="59%" src="https://github-readme-stats.vercel.app/api?username=nobourge&show_icons=true&count_private=true&hide_border=true&title_color=0eeaf&icon_color=6aa6f8&text_color=00FF00&bg_color=0d1117"/> 
+  <!-- Langages use classement -->
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobourge&hide_border=true&title_color=6aa6f8&text_color=00FF00&bg_color=0d1117&size_weight=0.5&count_weight=0.5&hide=cmake,makefile,pawn" />
 </p>
 
@@ -11,7 +15,7 @@
 
 
 <!-- About Me -->
-
+Hi! I'm a Junior Software Developer with a strong interest in automatization, Artificial Intelligence, Augmented Reality and Extropy.
 
 <!-- Contact Me -->
 ### Contact Me
