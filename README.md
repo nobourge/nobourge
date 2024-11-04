@@ -23,8 +23,19 @@
   
 <!-- Social Media -->
 
+
+<!-- About Me -->
+Hi! I'm a technical documentation specialist and junior software developer with a strong interest in automatization, artificial intelligence, augmented reality and extropy.
+
 <!-- Contact Me -->
-### Contact Me
+### Contact
 📧 bourgeois_noe@hotmail.fr
 
 <!-- My Projects -->
+
+
+
+
+
+
+  
