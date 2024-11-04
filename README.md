@@ -14,7 +14,8 @@
 
 
 <!-- Contact Me -->
-
+### Contact Me
+📧 bourgeois_noe@hotmail.fr
 
 <!-- My Projects -->
 
