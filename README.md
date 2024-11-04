@@ -1,31 +1,11 @@
 <!-- GitHub Stats -->
 <p>
-  <!-- Activity graph -->
-  <!--img src="https://github-readme-activity-graph.cyclic.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>
-  <!-- Github Stats -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>
   <img width="59%" src="https://github-readme-stats.vercel.app/api?username=nobourge&show_icons=true&count_private=true&hide_border=true&title_color=0eeaf&icon_color=6aa6f8&text_color=00FF00&bg_color=0d1117"/> 
-  <!-- Langages use classement -->
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobourge&hide_border=true&title_color=6aa6f8&text_color=00FF00&bg_color=0d1117&size_weight=0.5&count_weight=0.5&hide=cmake,makefile,pawn" />
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,git,latex,md,qt,visualstudio,vscode,idea,postgres,matlab,octave,&theme=dark)](https://skillicons.dev)
-
-<!-- Social Media -->
-
-
-<!-- About Me -->
-Hi! I'm a Junior Software Developer with a strong interest in automatization, Artificial Intelligence, Augmented Reality and Extropy.
-
-<!-- Contact Me -->
-### Contact Me
-📧 bourgeois_noe@hotmail.fr
-
-<!-- My Projects -->
-
-
-
-
 <!-- Languages and Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-6aa6f8?style=flat-square&logo=python&logoColor=white">
@@ -41,3 +21,10 @@ Hi! I'm a Junior Software Developer with a strong interest in automatization, Ar
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-6aa6f8?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/-PostgreSQL-6aa6f8?style=flat-square&logo=postgresql&logoColor=white">
   
+<!-- Social Media -->
+
+<!-- Contact Me -->
+### Contact Me
+📧 bourgeois_noe@hotmail.fr
+
+<!-- My Projects -->
