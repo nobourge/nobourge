@@ -1,3 +1,10 @@
+<!-- About Me -->
+Hi! 
+
+I'm currently developing an AI assistant app.
+
+I'm a technical documentation specialist and junior software developer with a focus on automation, artificial intelligence, information visualization and augmented reality.
+
 <!-- GitHub Stats -->
 <p>
   <!--img src="https://github-readme-activity-graph.cyclic.app/graph?username=nobourge&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=00FF00&area=true&hide_border=true"/>-->
@@ -24,9 +31,6 @@
   
 <!-- Social Media -->
 
-
-<!-- About Me -->
-Hi! I'm a technical documentation specialist and junior software developer with a focus on exploration, automation, artificial intelligence, information visualization, augmented reality and extropy.
 
 <!-- Contact Me -->
 ### Contact
